@@ -9,7 +9,7 @@ import Timer from './components/Timer.vue';
 </template>
 
 <style>
-@import './assets/myStyleSheet.css';
+@import './assets/styles.css';
 .app {
     display: flex;
     justify-content: center;
